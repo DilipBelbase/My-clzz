@@ -1,0 +1,357 @@
+* {
+    padding: 0px;
+    margin: 0px;
+  }
+  
+  .top {
+    display: flex;
+    background-color: rgba(0, 0, 139, 0.904);
+    height: 40px;
+    color: white;
+    gap: 20px;
+    align-items: center;
+  }
+  #a {
+    margin-left: 90px;
+  }
+  .d {
+    margin-left: 200px;
+  }
+  .logo {
+    background-color: whitesmoke;
+    height: 90px;
+    align-items: center;
+  
+    display: flex;
+  }
+  .img {
+    margin-left: 20px;
+  }
+  a {
+    text-decoration: none;
+  }
+  .sel{
+    border: none;
+    text-decoration: none;
+  }
+  .nav {
+    display: flex;
+    margin-left: 60px;
+    gap: 35px;
+    align-items: center;
+  }
+  #home {
+    color: black;
+    font-size: larger;
+  }
+  #about {
+    color: black;
+  
+    font-size: larger;
+  }
+  #course {
+    color: black;
+    font-size: larger;
+  }
+  
+  #career {
+    color: black;
+    font-size: larger;
+  }
+  #contact {
+    color: black;
+    font-size: larger;
+  }
+  #project {
+    color: black;
+    font-size: larger;
+  }
+  .admission {
+    background-color: brown;
+    font-size: larger;
+    color: white;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    width: 180px;
+    justify-content: center;
+    border-radius: 40px;
+    margin-left: 20px;
+  }
+  .front {
+    background-color: rgba(82, 113, 138, 0.284);
+    height: 595px;
+    border-top: 2px solid skyblue;
+    display: flex;
+  }
+  .text {
+    height: 500px;
+  
+    width: 700px;
+  }
+  .img2 {
+    margin-left: 180px;
+  }
+  .f {
+    margin-top: 70px;
+    margin-left: 60px;
+    color: rgb(131, 7, 131);
+  }
+  .text2 {
+    margin-top: 20px;
+    margin-left: 60px;
+    text-shadow: 10px 10px 18px black;
+    font-size: xx-large;
+  }
+  #q {
+    color: rgba(0, 0, 255, 0.486);
+    text-shadow: 10px 10px 15px rgba(0, 0, 255, 0.486);
+  }
+  .text3 {
+    color: navy;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align-items:center;
+    justify-content: center;
+    display: flex;
+    margin-top: 30px;
+    line-height: 1.8;
+  }
+  .logo2 {
+    background-color: brown;
+    height: 50px;
+    width: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 80px;
+    margin-top: 30px;
+    border-radius: 30px;
+  }
+  #contactus {
+    color: white;
+    font-size: larger;
+  }
+  .principal {
+    height: 700px;
+  
+    display: flex;
+  }
+  
+  .message {
+    height: 600px;
+    width: 800px;
+  }
+  .principalimg {
+    height: 600px;
+  
+    width: 700px;
+  }
+  #pimg {
+    margin-left: 90px;
+    margin-top: 30px;
+  }
+  .g {
+    margin-top: 70px;
+    margin-left: 270px;
+    color: rgb(131, 7, 131);
+  
+    height: 20px;
+    width: 300px;
+  }
+  .h {
+    margin-top: 30px;
+  
+    margin-left: 195px;
+    font-family: "Georgia", "Times New Roman", serif;
+    color: #002d72;
+  }
+  .pm {
+    margin-top: 20px;
+  }
+  #ppp {
+    padding: 3px;
+    color: rgb(6, 6, 114);
+    margin-left: 80px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
+  
+  #ppppp {
+    margin-left: 260px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: rgb(6, 6, 114);
+    padding: 3px;
+  }
+  .pppp {
+    margin-top: 20px;
+  }
+  
+  #sign {
+    margin-top: 40px;
+    margin-left: 320px;
+  }
+  .message2{
+      
+      display: flex;
+  }
+  .img3{
+      margin-left: 50px;
+  
+  }
+   .message3{
+      
+      width: 760px;
+      margin-left: 30px;
+   }
+  #small{
+      color: orange;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: small;
+      margin-left: 30px;
+      margin-top: 30px;
+      
+    
+  
+     
+  }
+  #line{
+      color: red;
+    
+  }
+  .headline{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: larger;
+      margin-top: 30px;
+      margin-left: 30px;
+      
+  }
+  .msg{
+      
+      line-height: 1.8;
+      margin-top: 20px;
+      font-family:sans-serif;
+     font-size: small;
+  
+  }
+  .icon2{
+    
+    height: 200px;
+    width: 700px;
+    display: flex;
+    margin-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+  }
+  #icon3{
+    margin-left: 60px;
+  }
+  
+  .research{
+    
+    margin-top: 30px;
+   
+  
+  }
+  .research1{
+    margin-left: 10px;
+    margin-top: 20px;
+   
+  
+  }
+  .scholar{
+    margin-top: 30px;
+  }
+  #icon4{
+    margin-left: 120px;
+  }
+  .scholo2{
+    margin-left: 50px;
+    margin-top: 20px;
+  }
+  .learn{
+    margin-top: 30px;
+  }
+  #icon5{
+    margin-left: 120px;
+  
+  }
+  .learning{
+  margin-top: 20px;
+  margin-left: 50px;
+  }
+  .footer{
+    height: 700px;
+    
+  }
+  .lstmsg{
+    
+    height: 170px;
+    margin-top: 60px;
+    
+    
+  
+  }
+  #our{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    color: rgb(50, 50, 225);
+  margin-left: 650px;
+  }
+  #what{
+    color: rgb(6, 6, 114);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+    margin-left: 510px;
+    
+  }
+  #we{
+    color: rgb(6, 6, 114);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    margin-left: 180px;
+  }
+  #ew{
+    color: rgb(6, 6, 114);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 600px;
+    margin-top: 5px;
+  }
+  .ftlst{
+    height: 500px;
+    display: flex;
+    gap: 20px;
+    
+  }
+  .o1{
+    
+    height: 380px;
+    width: 400px;
+    border-radius: 20px;
+    box-shadow: 20px 20px 20px 20px gainsboro;
+    margin-top: 10px;
+    border: 1px solid whitesmoke;
+    margin-left: 40px;
+   
+   
+    
+  }
+  #y{
+    margin-top: 10px;
+    width: 50px;
+    margin-left: 10px;
+    font-size:70px;
+   
+  }
+  #col{
+    background-color: rgba(6, 6, 114, 0.884);
+    color: white;
+  }
+  #z{
+    margin-top: 50px;
+    margin-left: 20px;
+  }
+  #bsc{
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 50px;
+  }
